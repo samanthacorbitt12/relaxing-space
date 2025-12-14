@@ -1,0 +1,10 @@
+
+.title {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: goldenrod;}
+body{
+  min-height: 800px;
+  border: 8px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
